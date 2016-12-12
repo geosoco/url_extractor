@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: url-extractor
+Version: 0.1
+Summary: URL analysis API and toolset
+Home-page: http://github.com/geosoco/url_extractor/
+Author: John Robinson
+Author-email: soco@uw.edu
+License: MIT License
+Description: <<TODO: Write Long Description!>>
+Platform: any
